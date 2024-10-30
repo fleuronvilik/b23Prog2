@@ -1,0 +1,16 @@
+Please choose the operation
+1 - Output of all clients
+  11 - All male customers | 111 - All male customers in the southwest | 112 - All male customers in the southeast
+  12 - All female customers | 121 - All female customers in the southwest | 122 - All female customers in the southeast
+  13 - All customers in the southwest
+  14 - All customers in the southeast
+2 - Automated Report
+  21 - All male customers | 211 - All male customers in the southwest | 212 - All male customers in the southeast
+  22 - All female customers | 221 - All female customers in the southwest | 222 - All female customers in the southeast
+  23 - All customers in the southwest
+  24 - All customers in the southeast
+3 - Search a customer
+4 - Delete a customer
+5 - Add a customer
+6 - Sort by ID
+  61 - By age | 62 - By number of children | 63 - By sex | 64 - By region | 65 - By bmi | 66 - By charges
